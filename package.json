@@ -1,0 +1,20 @@
+{
+  "name": "ca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1",
+    "node-datetime": "^2.1.2",
+    "nodemailer": "^6.7.8",
+    "tailwindcss": "^3.1.8"
+  }
+}
