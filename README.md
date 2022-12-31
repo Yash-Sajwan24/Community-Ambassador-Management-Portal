@@ -5,8 +5,12 @@ Campus ambassador programmes are part-time opportunities offered by a brand or a
 
 ## Video demo of the project
 
-- [Full Video Demo]()
+- [Full Video Demo](https://drive.google.com/file/d/1hv2VvXPc4_Ndyf0FrzZIpEnqkCL1Rph8/view?usp=sharing)
 
+
+
+
+https://user-images.githubusercontent.com/52412969/210135553-964b19a6-bd62-46da-ac3e-e09ba4bdaa46.mp4
 
 
 
