@@ -32,11 +32,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 
-
-
-
-
-
 Clone the project
 ```bash
   git clone https://github.com/Yash-Sajwan24/Community-Ambassador-Management-Portal.git
@@ -54,6 +49,11 @@ Start the server
 ```
 
 ## About the Source code
+
+### Admin portal 
+ID- admin@123
+
+PASS - admin
 
 ### Tech Stacks used:
 HTML, CSS, JavaScript, Express.js, Node.js, Tailwind, Bootstrap
