@@ -1,20 +1,39 @@
-
 # Campus Ambassador Management Portal
 
-Campus ambassador programmes are part-time opportunities offered by a brand or an organisation to students who are still pursuing their college education. Through these programmes and the involvement of students, a brand can help build its presence and promote its products or services among students and teachers. 
+Campus Ambassador Management Portal is a comprehensive web application designed to streamline and enhance campus ambassador programs. These programs offer valuable part-time opportunities for students during their college education. By engaging students in these programs, brands and organizations can establish a strong presence and promote their products or services among students and educators.
 
-## Video demo of the project
+## Table of Contents
 
-- [Full Video Demo](https://drive.google.com/file/d/1hv2VvXPc4_Ndyf0FrzZIpEnqkCL1Rph8/view?usp=sharing)
+- [Video Demo](#video-demo)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [About the Source Code](#about-the-source-code)
+  - [Admin Portal](#admin-portal)
+  - [Tech Stacks Used](#tech-stacks-used)
+- [Project Overview](#project-overview)
+  - [Home Page](#home-page)
+  - [Onboarding, Shortlisting & Churning](#onboarding-shortlisting--churning-of-community-representative)
+  - [Task/Activity Assignment and Verification](#taskactivity-assignment-and-verification)
+  - [Dashboard/Portal for Campus Ambassadors/Members](#dashboardportal-for-campus-ambassadorsmembers)
 
+## Video Demo
 
-
+Watch the full video demo of the project [here](https://drive.google.com/file/d/1hv2VvXPc4_Ndyf0FrzZIpEnqkCL1Rph8/view?usp=sharing).
 
 https://user-images.githubusercontent.com/52412969/210135553-964b19a6-bd62-46da-ac3e-e09ba4bdaa46.mp4
 
+## About the Source Code
 
+### Admin Portal
+- ID: admin@123
+- Password: admin
 
-
+### Tech Stacks Used
+The project is built using the following technologies:
+- HTML, CSS
+- JavaScript, Express.js, Node.js
+- Tailwind CSS, Bootstrap
 
 ## Getting Started
 
@@ -26,10 +45,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ### Build and Run Locally
-
-
-
-
 
 
 Clone the project
@@ -48,43 +63,29 @@ Start the server
   node main.js
 ```
 
-## About the Source code
+## Project Overview
 
-### Admin portal 
-ID- admin@123
+The Campus Ambassador Management Portal provides the following features and functionalities:
 
-PASS - admin
+### Home Page
+- Registration: Collects name, college, education details, social media links, and allows resume upload.
+- Program Details & FAQ: Offers information about the program and answers frequently asked questions.
+- Application to Become a CA: Allows students to apply to become a Campus Ambassador.
+- Sign Up: User registration functionality.
+- Contact: Contact information for queries and support.
 
-### Tech Stacks used:
-HTML, CSS, JavaScript, Express.js, Node.js, Tailwind, Bootstrap
+### Onboarding, Shortlisting & Churning of Community Representatives
+- Admin can manage applications, including selection and rejection.
 
-### About the project:
+### Task/Activity Assignment and Verification
+- Admin can assign deadline-based tasks/activities to Campus Ambassadors.
+- Admin verifies or rejects completed tasks/activities.
 
- Campus Ambassador Management Portal cater the
-following feature and functionalities:
+### Dashboard/Portal for Campus Ambassadors/Members
+- Notification Panel: Displays important updates and notifications in the navigation bar.
+- Profile/Account: Campus Ambassadors can manage their profile information.
+- Performance Bar: Shows progress based on pending and completed tasks.
+- Feedback Sharing Panel: Allows Campus Ambassadors to provide feedback.
 
-#### Home Page with
- - Registration - Name, College, Education Detail, Social Media links, Resume Upload
- - Program Details & FAQ
- - Application to become CA
- - Sign up
- - Contact
-
-#### Onboarding,Shortlisting & Churning of Community Representative 
-Applications for Admin with below mentioned check-ins:
- - Selection
-  - Rejection
-
-#### Mechanism to assign deadline based Tasks/Activity to CA’s with It’s Verification/Rejection through an admin portal
- 
-#### Dashboard/Portal for CA’s/Members
- - Notification Panel - In Navigation Bar
- - Profile/Account
- - Performance Bar on the basis of Task Pending & Completed
- - Feedback sharing Panel
-
-
-
-
-
+This project aims to simplify the management of campus ambassador programs, enhancing communication and efficiency between administrators and students. Through streamlined processes and interactive features, the Campus Ambassador Management Portal empowers both brands and students in the pursuit of mutual growth and success.
 
